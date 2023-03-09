@@ -1,4 +1,4 @@
-# from GitHub, overriding the name and specifying a specific tag
+# from GitHub
 - src: https://github.com/AlaaZahran/apache-ansible.git
   version: main
   name: apache-ansible
